@@ -40,7 +40,7 @@ export const dataProperties = [
     time: 8,
     APY: 18,
     description: `
-       <p> Discover the pinnacle of luxury with the De Antonio Yachts D42, a premier yacht moored in the breathtaking waters of Mallorca. Featuring an innovative design and expansive deck space, the De Antonio Yachts D42 seamlessly combines sophistication and practicality.</p>
+       <p> Discover the pinnacle of luxury with the <b>De Antonio Yachts D42</b>, a premier yacht moored in the breathtaking waters of Mallorca. Featuring an innovative design and expansive deck space, the De Antonio Yachts D42 seamlessly combines sophistication and practicality.</p>
        <p> Investing in the De Antonio Yachts D42 in beautiful Mallorca offers not only luxury ownership but also a smart financial opportunity. Here's why you should consider this investment:</p> 
        <h3 style="font-weight: bold; margin-top: 0.5em;"> High Annual Yiels (18% APY) </h3>
        <p>  This opportunity means your investment will offers an exceptional 18% Annual Percentage Yield (APY), ensuring your investment grows substantially each year. This high yield outperforms many traditional investment options, providing significant financial benefits. </p>
@@ -67,7 +67,7 @@ export const dataProperties = [
     time: 5,
     APY: 10,
     description: `
-    <p> Step into a world of elegance with the NUVA M6 OPEN, a sleek 6.6-meter yacht nestled in the vibrant waters of Tenerife. Boasting a modern design and ample space, the NUVA M6 OPEN perfectly merges style with practicality.</p>
+    <p> Step into a world of elegance with the <b>NUVA M6 OPEN</b>, a sleek 6.6-meter yacht nestled in the vibrant waters of Tenerife. Boasting a modern design and ample space, the NUVA M6 OPEN perfectly merges style with practicality.</p>
     <p> Investing in the NUVA M6 OPEN in the captivating location of Tenerife is not just about luxury, but also a wise financial move. Here's what makes this investment compelling:</p> 
     <h3 style="font-weight: bold; margin-top: 0.5em;"> Attractive Annual Return (10% APY) </h3>
     <p>  The NUVA M6 OPEN offers a noteworthy 10% Annual Percentage Yield (APY), guaranteeing a steady growth of your investment each year. This competitive yield outshines many conventional investment avenues, ensuring excellent financial returns. </p>
@@ -93,7 +93,7 @@ export const dataProperties = [
     APY: 11,
     time: 4,
     description: `
-       <p> Experience the epitome of luxury with the Invictus, a stunning 8.5-meter yacht moored in the enchanting waters of Capri, Italy. With its sleek design and spacious layout, the Invictus offers a perfect blend of style and performance.</p>
+       <p> Experience the epitome of luxury with the <b>Invictus</b>, a stunning 8.5-meter yacht moored in the enchanting waters of Capri, Italy. With its sleek design and spacious layout, the Invictus offers a perfect blend of style and performance.</p>
        <p> Investing in the Invictus in beautiful Capri presents not only an opportunity for luxury ownership but also a smart financial decision. Here’s why this investment stands out:</p> 
        <h3 style="font-weight: bold; margin-top: 0.5em;"> High Annual Yiels (18% APY) </h3>
        <p>  The Invictus yacht offers an impressive 11% Annual Percentage Yield (APY), ensuring your investment grows consistently each year. This attractive yield surpasses many traditional investment options, providing substantial financial benefits. </p>
@@ -118,7 +118,7 @@ export const dataProperties = [
     time: 5,
     APY: 18,
     description: `
-    <p> Unveil the extraordinary charm of the Nassima 40, a stunning 12.65-meter yacht anchored in the exquisite waters of Sardinia. With its exceptional design and spacious interiors, the Nassima 40 stands out as a masterpiece of elegance and sophistication.</p>
+    <p> Unveil the extraordinary charm of the <b>Nassima 40</b>, a stunning 12.65-meter yacht anchored in the exquisite waters of Sardinia. With its exceptional design and spacious interiors, the Nassima 40 stands out as a masterpiece of elegance and sophistication.</p>
     <p> Investing in the Nassima 40 in the picturesque location of Sardinia is not only a luxury but also a highly attractive financial opportunity. Here’s why this investment is particularly compelling:</p> 
     <h3 style="font-weight: bold; margin-top: 0.5em;"> Exceptional Annual Yiels (18% APY) </h3>
     <p>  The Nassima 40 offers a remarkable 18% Annual Percentage Yield (APY), making it an incredibly appealing investment. This substantial yield ensures your investment grows significantly each year, outperforming many traditional financial options.</p>
@@ -143,7 +143,7 @@ export const dataProperties = [
     APY: 20,
     time: 4,
     description: `
-    <p> Discover the allure of owning a luxurious apartment within the prestigious Melia Hotel in the heart of Madrid. This elegant property features three spacious bedrooms and two modern bathrooms, offering a perfect blend of comfort and sophistication.</p>
+    <p> Discover the allure of owning a luxurious apartment within the prestigious <b>Melia Hotel</b> in the heart of Madrid. This elegant property features three spacious bedrooms and two modern bathrooms, offering a perfect blend of comfort and sophistication.</p>
     <p>Investing in an apartment in the Melia Hotel presents a unique opportunity for both luxury living and financial growth. Here’s why this investment stands out:</p> 
     <h3 style="font-weight: bold; margin-top: 0.5em;"> Impressive Annual Yiels (20% APY) </h3>
     <p>  The Melia Hotel Apartment offers a remarkable 20% Annual Percentage Yield (APY), ensuring your investment flourishes substantially each year. This high yield surpasses many conventional investment options, making it an attractive choice for discerning investors.</p>
@@ -170,7 +170,7 @@ export const dataProperties = [
     time: 4,
     APY: 21,
     description: `
-    <p> Step into the future of sophisticated living with an exclusive room at the W Hotel in Barcelona. Spanning 97 square meters, this modern and luxurious space offers unparalleled elegance and comfort, making it an exceptional investment opportunity. </p>
+    <p> Step into the future of sophisticated living with an exclusive room at the <b<W Hotel</b> in Barcelona. Spanning 97 square meters, this modern and luxurious space offers unparalleled elegance and comfort, making it an exceptional investment opportunity. </p>
     <p> Here’s why investing in a room at the W Hotel in Barcelona is a brilliant financial decision: </p>
     <h3 style="font-weight: bold; margin-top: 0.5em;"> Exceptional Annual Return (21% APY) </h3>
     <p>  The W Hotel room boasts an outstanding 21% Annual Percentage Yield (APY), ensuring substantial annual growth for your investment. This impressive yield surpasses many traditional investment options, providing significant financial rewards.</p>
@@ -197,7 +197,7 @@ export const dataProperties = [
     time: 10,
     APY: 12,
     description: `
-    <p> Embrace the charm of vintage elegance with an exclusive apartment at the Luxor Hotel in Paris. Located just 5 kilometers from the iconic Eiffel Tower, this exquisitely designed apartment offers a unique blend of classic sophistication and modern convenience. </p>
+    <p> Embrace the charm of vintage elegance with an exclusive apartment at the <b>Luxor Hotel</b> in Paris. Located just 5 kilometers from the iconic Eiffel Tower, this exquisitely designed apartment offers a unique blend of classic sophistication and modern convenience. </p>
     <p> Here’s why investing in an apartment at the Luxor Hotel in Paris is a wise financial decision: </p>
     <h3 style="font-weight: bold; margin-top: 0.5em;"> Attractive Annual Return (12% APY) </h3>
     <p>  The Luxor Hotel apartment provides a compelling 12% Annual Percentage Yield (APY), ensuring consistent growth for your investment each year. This solid yield surpasses many conventional investment opportunities, offering significant financial benefits.</p>
@@ -224,7 +224,7 @@ export const dataProperties = [
     time: 8,
     APY: 18,
     description: `
-    <p> Immerse yourself in the serene beauty of Santorini with an exclusive investment opportunity at the AquaBlue Hotel. Nestled on the picturesque beaches of this iconic Greek island, the AquaBlue Hotel offers a harmonious blend of modern design and tranquil surroundings, creating an idyllic retreat for visitors from around the world.</p>
+    <p> Immerse yourself in the serene beauty of Santorini with an exclusive investment opportunity at the <b>AquaBlue Hotel</b>. Nestled on the picturesque beaches of this iconic Greek island, the AquaBlue Hotel offers a harmonious blend of modern design and tranquil surroundings, creating an idyllic retreat for visitors from around the world.</p>
     <p> Here’s why investing in the AquaBlue Hotel in Santorini is a lucrative and wise decision: </p>
     <h3 style="font-weight: bold; margin-top: 0.5em;"> Exceptional Annual Return (18% APY) </h3>
     <p>  The AquaBlue Hotel provides an impressive 18% Annual Percentage Yield (APY), ensuring substantial growth for your investment each year. This high return rate outperforms many traditional investment options, making it an attractive choice for savvy investors.</p>
@@ -251,7 +251,7 @@ export const dataProperties = [
     time: 8,
     APY: 21,
     description: `
-    <p> Step into the world of sophistication with the Pardo-50, an exquisite 16.25-meter yacht docked in the vibrant waters of Miami, Florida. Boasting sleek, attractive lines and unparalleled elegance, the Pardo-50 offers an exceptional investment opportunity.</p>
+    <p> Step into the world of sophistication with the <b>Pardo-50</b>, an exquisite 16.25-meter yacht docked in the vibrant waters of Miami, Florida. Boasting sleek, attractive lines and unparalleled elegance, the Pardo-50 offers an exceptional investment opportunity.</p>
     <p> Here’s why investing in the Pardo-50 in Miami is a smart financial move:</p>
     <h3 style="font-weight: bold; margin-top: 0.5em;"> Outstanding Annual Return (21% APY) </h3>
     <p>  The Pardo-50 delivers a remarkable 21% Annual Percentage Yield, ensuring your investment flourishes each year. This substantial return rate outperforms many traditional investments, offering significant financial growth.</p>
@@ -304,7 +304,7 @@ export const dataProperties = [
     meters: 14,
     time: 9,
     APY: 18,
-    description: `<p> Step into the world of sophistication with the Pardo-43, an exquisite 14-meter yacht docked in the vibrant waters of Cartagena de Indias, Colombia. Boasting sleek, attractive lines and unparalleled elegance, the Pardo-43 offers an exceptional investment opportunity.</p>
+    description: `<p> Step into the world of sophistication with the <b>Pardo-43</b>, an exquisite 14-meter yacht docked in the vibrant waters of Cartagena de Indias, Colombia. Boasting sleek, attractive lines and unparalleled elegance, the Pardo-43 offers an exceptional investment opportunity.</p>
     <p> Here’s why investing in the Pardo-43 in Cartagena de Indias is a smart financial move:</p>
     <h3 style="font-weight: bold; margin-top: 0.5em;"> Outstanding Annual Return (18% APY) </h3>
     <p>  The Pardo-50 delivers a remarkable 21% Annual Percentage Yield, ensuring your investment flourishes each year. This substantial return rate outperforms many traditional investments, offering significant financial growth.</p>
