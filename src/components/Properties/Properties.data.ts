@@ -40,16 +40,16 @@ export const dataProperties = [
     time: 8,
     APY: 18,
     description: `
-       <p> Discover the pinnacle of luxury with the <b>De Antonio Yachts D42</b>, a premier yacht moored in the breathtaking waters of Mallorca. Featuring an innovative design and expansive deck space, the De Antonio Yachts D42 seamlessly combines sophistication and practicality.</p>
+       <p> Discover the pinnacle of luxury with the <b>DeAntonio D42</b>, a premier yacht moored in the breathtaking waters of Mallorca. Featuring an innovative design and expansive deck space, the De Antonio Yachts D42 seamlessly combines sophistication and practicality.</p>
        <p> Investing in the De Antonio Yachts D42 in beautiful Mallorca offers not only luxury ownership but also a smart financial opportunity. Here's why you should consider this investment:</p> 
        <h3 style="font-weight: bold; margin-top: 0.5em;"> High Annual Yiels (18% APY) </h3>
        <p>  This opportunity means your investment will offers an exceptional 18% Annual Percentage Yield (APY), ensuring your investment grows substantially each year. This high yield outperforms many traditional investment options, providing significant financial benefits. </p>
        <h3 style="font-weight: bold; margin-top: 0.5em;">  Steady Demand for Luxury Rentals </h3>
-       <p> Mallorca is a renowned destination for luxury tourism, with a constant influx of high-end visitors seeking exclusive experiences. The De Antonio Yachts D42 is perfectly positioned to capitalize on this demand, offering lucrative and recurring rental income. </p>
+       <p> Mallorca is a renowned destination for luxury tourism, with a constant influx of high-end visitors seeking exclusive experiences. The DeAntonio D42 is perfectly positioned to capitalize on this demand, offering lucrative and recurring rental income. </p>
        <h3 style="font-weight: bold; margin-top:  0.5em;"> <b> Asset Appreciation </b> </h3>
-       <p> The De Antonio Yachts D42 is a valuable asset known for its innovative design and superior performance. In premium locations like Mallorca, the value of this yacht can appreciate over time, driven by high demand and limited supply.</p>
+       <p> The DeAntonio D42 is a valuable asset known for its innovative design and superior performance. In premium locations like Mallorca, the value of this yacht can appreciate over time, driven by high demand and limited supply.</p>
        <h3 style="font-weight: bold; margin-top: 0.5em;"> <b> Investment Opportunity </b> </h3>
-       <p> By investing in the De Antonio Yachts D42, you secure a high-yield asset, enjoy steady rental income from a prime tourist destination, and benefit from potential asset appreciation and tax advantages. Make a smart investment today and elevate your financial portfolio with the De Antonio Yachts D42, located in the beautiful waters of Mallorca.</p>
+       <p> By investing in the DeAntonio D42, you secure a high-yield asset, enjoy steady rental income from a prime tourist destination, and benefit from potential asset appreciation and tax advantages. Make a smart investment today and elevate your financial portfolio with the DeAntonio D42, located in the beautiful waters of Mallorca.</p>
   `,
   },
   {
