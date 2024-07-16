@@ -36,7 +36,7 @@ export function Banner() {
 
           {/* FloatedSearch posicionado más abajo */}
         </div>
-        <div className="absolute bottom-0.05 w-full px-4">
+        <div className="absolute bottom-0.05 w-full px-4 hidden md:block">
           <FloatedSearch />
         </div>
       </div>
