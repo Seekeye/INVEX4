@@ -40,8 +40,8 @@ export const dataProperties = [
     time: 8,
     APY: 18,
     description: `
-       <p> Discover the pinnacle of luxury with the <b>DeAntonio D42</b>, a premier yacht moored in the breathtaking waters of Mallorca. Featuring an innovative design and expansive deck space, the De Antonio Yachts D42 seamlessly combines sophistication and practicality.</p>
-       <p> Investing in the De Antonio Yachts D42 in beautiful Mallorca offers not only luxury ownership but also a smart financial opportunity. Here's why you should consider this investment:</p> 
+       <p> Discover the pinnacle of luxury with the <b>DeAntonio D42</b>, a premier yacht moored in the breathtaking waters of Mallorca. Featuring an innovative design and expansive deck space, the DeAntonio D42 seamlessly combines sophistication and practicality.</p>
+       <p> Investing in the DeAntonio D42 in beautiful Mallorca offers not only luxury ownership but also a smart financial opportunity. Here's why you should consider this investment:</p> 
        <h3 style="font-weight: bold; margin-top: 0.5em;"> High Annual Yiels (18% APY) </h3>
        <p>  This opportunity means your investment will offers an exceptional 18% Annual Percentage Yield (APY), ensuring your investment grows substantially each year. This high yield outperforms many traditional investment options, providing significant financial benefits. </p>
        <h3 style="font-weight: bold; margin-top: 0.5em;">  Steady Demand for Luxury Rentals </h3>
