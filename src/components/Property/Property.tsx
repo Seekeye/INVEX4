@@ -55,13 +55,16 @@ export function Property(props: PropertyProps) {
     <main className="max-w-5xl mx-auto">
       <div className="grid md:grid-cols-[70%, 1fr] my-3 py-5 gap-6">
         <div className="px-6">
-          <h1 className="text-3xl mb-4 text-secondary flex justify-between items-center">
-            <span className="space-right">
-              {house.tokenname}
-              {house.id}
-            </span>
-            <span className="space.right">{house.name}</span>
-            <span className="font-semibold flex flex-col items-end md:items-center md:flex-row">
+          <h1 className="text-3xl mb-4 text-secondary flex flex-col md:flex-row md:justify-between md:items-center">
+            <div className="flex justify-between w-full md:w-auto">
+              <span className="space-right">
+                {house.tokenname}
+                {house.id}
+              </span>
+              <span className="md:hidden">{formatPrice(house.price)}</span>
+            </div>
+            <span className="hidden md:block">{house.name}</span>
+            <div className="flex flex-col items-end md:items-center md:flex-row">
               <span
                 style={style}
                 onMouseOver={() =>
@@ -72,12 +75,14 @@ export function Property(props: PropertyProps) {
                 onMouseOut={() =>
                   setStyle(window.innerWidth <= 768 ? mobileStyle : baseStyle)
                 }
-                className="financing-button mr-3"
+                className="financing-button mt-2 md:mt-0 md:mr-3"
               >
                 Financing
-              </span>{" "}
-              {formatPrice(house.price)}
-            </span>
+              </span>
+              <span className="hidden md:block">
+                {formatPrice(house.price)}
+              </span>
+            </div>
           </h1>
           <div className="flex gap-5 my-4">
             <h2 className="flex gap-3 text-xl items-center">
