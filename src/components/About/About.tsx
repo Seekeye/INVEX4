@@ -3,12 +3,12 @@ import Image from "next/image";
 
 export function About() {
   return (
-    <Transition className="grid gap-10 px-4 py- md:py-44 md:px-36 md:grid-cols-2">
+    <Transition className="grid gap-10 px-4 py-10 md:py-44 md:px-36 md:grid-cols-2">
       <div
-        className="flex flex-col items-center justify-center max-w-xl mb-7"
+        className="flex flex-col items-center justify-center max-w-xl mb-12 md:mb-7"
         id="about"
       >
-        <h4 className="text-secondary">About us</h4>
+        <h4 className="text-secondary md:text-3xl">About us</h4>
         <h5 className="my-4 text-xl font-bold text-secondary">Our Vision</h5>
         <p className="mb-4 text-justify">
           Our vision is to revolutionize the investment industry by offering
